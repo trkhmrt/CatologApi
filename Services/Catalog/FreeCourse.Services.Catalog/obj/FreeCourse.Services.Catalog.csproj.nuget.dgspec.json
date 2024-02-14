@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {}
+    "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {}
   },
   "projects": {
-    "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {
+    "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
         "projectName": "FreeCourse.Services.Catalog",
-        "projectPath": "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+        "projectPath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
         "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
-        "outputPath": "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/obj/",
+        "outputPath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"

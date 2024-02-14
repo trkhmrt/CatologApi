@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+      "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
       "projectName": "FreeCourse.Shared",
-      "projectPath": "/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+      "projectPath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
       "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
-      "outputPath": "/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/",
+      "outputPath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Shared/FreeCourse.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"
