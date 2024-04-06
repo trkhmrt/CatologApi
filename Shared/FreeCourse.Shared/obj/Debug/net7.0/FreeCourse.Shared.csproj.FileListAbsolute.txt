@@ -1,0 +1,12 @@
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/bin/Debug/net7.0/FreeCourse.Shared.deps.json
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/bin/Debug/net7.0/FreeCourse.Shared.dll
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/bin/Debug/net7.0/FreeCourse.Shared.pdb
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/FreeCourse.Shared.csproj.AssemblyReference.cache
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/FreeCourse.Shared.AssemblyInfoInputs.cache
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/FreeCourse.Shared.AssemblyInfo.cs
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/FreeCourse.Shared.csproj.CoreCompileInputs.cache
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/FreeCourse.Shared.dll
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/refint/FreeCourse.Shared.dll
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/FreeCourse.Shared.pdb
+/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/obj/Debug/net7.0/ref/FreeCourse.Shared.dll

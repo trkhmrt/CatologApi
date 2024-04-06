@@ -19,11 +19,20 @@
     <None Remove="Dtos\" />
     <None Remove="Mapping\" />
     <None Remove="Settings\" />
+    <None Remove="Services\" />
+    <None Remove="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Dtos\" />
     <Folder Include="Mapping\" />
     <Folder Include="Settings\" />
+    <Folder Include="Services\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\FreeCourse.Shared\FreeCourse.Shared.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>

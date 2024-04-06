@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bp3fkUUuoCQfBjVQ5ZTa8FJNNCOy5x+RtITWVMA0674xVw5OYmAIhXxeCthpS5RIgFYtoezq8CbhHswgCogIqw==",
+  "dgSpecHash": "0wONHgTTVRjXx2c56Kfumt5+28e+P+WQh5xzC/ZqVfySom2ar2uUlq+LpGU6eT8VuLpkqKbVlhSHDIY9afeJ3w==",
   "success": true,
-  "projectFilePath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+  "projectFilePath": "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "/Users/tarikhamarat/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/tarikhamarat/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

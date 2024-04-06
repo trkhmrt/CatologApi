@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FlfWiyxyuTousqETgWvIhmKUu6GJqJBFmopWBUNHATj+d1xXye9Mr/wTFwUaD7uhoyYgqOx3Ng49ht6EyH29ig==",
+  "dgSpecHash": "Bex7lbJaz2CN7VgXfEDVPqB94o3AlUl65wioLIPR+M9kaHAfPRHg+T9VuWNOwU3S6Q6M8Ry7gab0t3Lg0+YZWQ==",
   "success": true,
-  "projectFilePath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+  "projectFilePath": "/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

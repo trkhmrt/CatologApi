@@ -491,6 +491,16 @@
         "runtime": {
           "lib/net7.0/ZstdSharp.dll": {}
         }
+      },
+      "FreeCourse.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FreeCourse.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreeCourse.Shared.dll": {}
+        }
       }
     }
   },
@@ -1482,11 +1492,17 @@
         "zstdsharp.port.0.7.3.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "FreeCourse.Shared/1.0.0": {
+      "type": "project",
+      "path": "../../../Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+      "msbuildProject": "../../../Shared/FreeCourse.Shared/FreeCourse.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "FreeCourse.Shared >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.15",
       "MongoDB.Driver >= 2.23.1",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -1498,11 +1514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+      "projectUniqueName": "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
       "projectName": "FreeCourse.Services.Catalog",
-      "projectPath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
+      "projectPath": "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/FreeCourse.Services.Catalog.csproj",
       "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
-      "outputPath": "/Users/tarikhamarat/Documents/GitHub/CatologApi/Services/Catalog/FreeCourse.Services.Catalog/obj/",
+      "outputPath": "/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"
@@ -1512,13 +1528,17 @@
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.314/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
+              "projectPath": "/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1567,7 +1587,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
       }
     }
   }
