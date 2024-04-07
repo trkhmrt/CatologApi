@@ -18,6 +18,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{6E4C7A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Shared", "Shared\FreeCourse.Shared\FreeCourse.Shared.csproj", "{2A76E89F-3241-4904-99D7-1EAADBDF3B27}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{9E93ECB2-A473-4797-B3B3-040BC1CB2957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerProject", "IdentityServer\IdentityServerProject\IdentityServerProject.csproj", "{223A19CE-7840-4437-9D0A-9E4451E0200C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,10 @@ Global
 		{2A76E89F-3241-4904-99D7-1EAADBDF3B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A76E89F-3241-4904-99D7-1EAADBDF3B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A76E89F-3241-4904-99D7-1EAADBDF3B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223A19CE-7840-4437-9D0A-9E4451E0200C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223A19CE-7840-4437-9D0A-9E4451E0200C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223A19CE-7840-4437-9D0A-9E4451E0200C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223A19CE-7840-4437-9D0A-9E4451E0200C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,5 +51,6 @@ Global
 		{FA39705E-AD4E-405A-BE78-1BCEEFD16DEE} = {B7005D96-888E-4AE9-8829-37062EF079FF}
 		{A5EFAC6D-FEA0-4175-8574-FB146A772F03} = {FA39705E-AD4E-405A-BE78-1BCEEFD16DEE}
 		{2A76E89F-3241-4904-99D7-1EAADBDF3B27} = {6E4C7A66-4F56-42FE-80F7-C8044426D528}
+		{223A19CE-7840-4437-9D0A-9E4451E0200C} = {9E93ECB2-A473-4797-B3B3-040BC1CB2957}
 	EndGlobalSection
 EndGlobal
