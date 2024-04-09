@@ -5,14 +5,17 @@ using System.Threading.Tasks;
 using FreeCourse.IdentityServer.Dtos;
 using FreeCourse.IdentityServer.Models;
 using FreeCourse.Shared.Dtos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using static IdentityServer4.IdentityServerConstants;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace FreeCourse.IdentityServer.Controllers
 {
-    [Route("api/[controller]")]
+    [Authorize(LocalApi.PolicyName)]
+    [Route("api/[controller]/[action]")]
     public class UserController : Controller
     {
 
@@ -24,7 +27,7 @@ namespace FreeCourse.IdentityServer.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> SignUp(SignupDto signupDto)
+        public async Task<IActionResult> SignUp([FromBody] SignupDto signupDto)
         {
             var user = new ApplicationUser
             {
@@ -32,14 +35,20 @@ namespace FreeCourse.IdentityServer.Controllers
                 Email = signupDto.Email,
                 City = signupDto.City
             };
+            try
+            {
 
             var result = await _userManager.CreateAsync(user, signupDto.Password);
-
+                Console.WriteLine("");
             if(!result.Succeeded)
             {
                 return BadRequest(Response<NoContent>.Fail(result.Errors.Select(x=>x.Description).ToList(),400));
             }
-
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.InnerException);
+            }
             return NoContent();
         }
        

@@ -53,8 +53,13 @@ namespace FreeCourse.IdentityServer
 
                     var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
 
-                  
-                        userManager.CreateAsync(new ApplicationUser { UserName = "tarik", Email = "trkhamarat@gmail.com", City = "İstanbul" }, "Abc_!23456");
+                    if (!userManager.Users.Any())
+                    {
+                        userManager.CreateAsync(new ApplicationUser { UserName = "tarik", Email = "trkhamarat@gmail.com", City = "İstanbul" }, "Abc_123456").Wait();
+                    }
+                   
+
+                    Console.WriteLine("");
                     
                 }
 

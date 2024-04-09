@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9IL9o70FcliLClrm7eq1iVoVTpFvPwnsPqPWCCS5yjUvtVyvha4wxnI/i2b6j3b5X6qA/2tZGoOabNfsqFkVFQ==",
+  "dgSpecHash": "FwhHMRQO5i3/jxnfqJv/N3GAem7JDLGvXPukL4yh4cihNm9DgPiFwfQLekZjSCAN2MBrAIuvjnMevQGi9BpQBw==",
   "success": true,
   "projectFilePath": "/Users/tarikhamarat/Projects/CatalogApi/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/tarikhamarat/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
