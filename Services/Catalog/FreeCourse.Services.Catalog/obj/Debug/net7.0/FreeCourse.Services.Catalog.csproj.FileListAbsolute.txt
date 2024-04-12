@@ -10,7 +10,14 @@
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/AWSSDK.Core.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/DnsClient.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Microsoft.OpenApi.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/MongoDB.Bson.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/MongoDB.Driver.dll
@@ -21,6 +28,7 @@
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/ZstdSharp.dll
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
 /Users/tarikhamarat/Projects/CatalogApi/Services/Catalog/FreeCourse.Services.Catalog/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
